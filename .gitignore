@@ -1,1 +1,7 @@
-.vs/ 
+.vs/
+.bin/ 
+/Key.txt
+/InsuranceClaimAI.Application/obj
+/InsuranceCliamAI.Infrastructure/obj
+/InsuRanceClaimAI/obj
+/InsuranceCore/obj
