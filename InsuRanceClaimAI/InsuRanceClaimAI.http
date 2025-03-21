@@ -1,0 +1,6 @@
+@InsuRanceClaimAI_HostAddress = http://localhost:5056
+
+GET {{InsuRanceClaimAI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
